@@ -1,0 +1,14 @@
+Executable : C:\Users\unais\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\unais\Desktop\ai\python\face detection java\face-recognizer-android-master\app\src\main\jni
+-BC:\Users\unais\Desktop\ai\python\face detection java\face-recognizer-android-master\app\.cxx\cmake\debug\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-24
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\unais\Desktop\ai\python\face detection java\face-recognizer-android-master\app\build\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Users\unais\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\unais\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\unais\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

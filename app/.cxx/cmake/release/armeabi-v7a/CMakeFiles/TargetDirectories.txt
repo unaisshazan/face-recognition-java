@@ -1,0 +1,8 @@
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/tensorflow_demo/CMakeFiles/tensorflow_demo.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/tensorflow_demo/CMakeFiles/edit_cache.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/tensorflow_demo/CMakeFiles/rebuild_cache.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/jnilibsvm/CMakeFiles/jnilibsvm.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/jnilibsvm/CMakeFiles/edit_cache.dir
+C:/Users/unais/Desktop/ai/python/face detection java/face-recognizer-android-master/app/.cxx/cmake/release/armeabi-v7a/jnilibsvm/CMakeFiles/rebuild_cache.dir

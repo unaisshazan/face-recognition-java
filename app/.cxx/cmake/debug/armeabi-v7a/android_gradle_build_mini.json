@@ -1,0 +1,24 @@
+{
+  "buildFiles": [
+    "C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+    "C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\src\\main\\jni\\jnilibsvm\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\unais\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "jnilibsvm-Debug-armeabi-v7a": {
+      "artifactName": "jnilibsvm",
+      "buildCommand": "C:\\Users\\unais\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target jnilibsvm",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libjnilibsvm.so"
+    },
+    "tensorflow_demo-Debug-armeabi-v7a": {
+      "artifactName": "tensorflow_demo",
+      "buildCommand": "C:\\Users\\unais\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target tensorflow_demo",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\unais\\Desktop\\ai\\python\\face detection java\\face-recognizer-android-master\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libtensorflow_demo.so"
+    }
+  }
+}
